@@ -6,9 +6,9 @@ I'm Mahan Khalili, developer from Iran.
 
 <p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkh-user&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="github stats" /></a>
 
-<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham&hide_border=true" /></a> 
+<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> 
 
-<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a>
+<p align="center"> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg)](https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f)
 
