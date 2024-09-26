@@ -4,7 +4,7 @@ Welcome to my page!
 
 I'm Mahan Khalili, developer from Iran.
 
-<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkh-user&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="github stats" /></a>
+<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkh-user&show_icons=true&include_all_commits=true&theme=gotham" alt="github stats" /></a>
 
 <p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> 
 
