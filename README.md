@@ -14,78 +14,48 @@ I'm Mahan Khalili, developer from Iran.
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=mkhuser&layout=)](https://github.com/mkh-user)
 
-(Please use the headings to navigate between the sections)
-## Projects
-### Godot
-#### Libraries & Plugins
+# Projects
+## Godot
+### Libraries & Plugins
 - [SLib](https://github.com/Subject-Team/SLib)
 - [Elementum](https://github.com/Subject-Team/Elementum)
-### Fonts
+## Fonts
 - F Shahdad
 - F Nama
 - F Maqdur
-## Learning
+
+# Learning...
 - Machine Learning
-## My Pages
+# My Pages
 - [WorkBank](https://soo.is/wqLGri)
-## Skils
-### Programming
-#### General
-- Visual Studio Basic
-- Git & GitHub
-- Intellij Basic
-- Shell Basic
-- Constract Basic
-- Algoritm Base
-#### Python
-- Basic
-- OOP
-- Basic teach
-- APIs
-- Data Science
-#### Godot
-- Basic
-- GDScript
-- Libraries
-- Plugins
-- 2D teach
-- Scripting teach
-#### Android
-- Android Studio Basic
-#### Java
-- Basic
-- OOP
-#### Cross Platform Development
-- Dart
-- Flutter
-### Camputer
+- [Linkedin](https://www.linkedin.com/in/mahan-khalili-s/)
+# Skils
+## Programming
+|General|Python|Godot|Android|Java|Cross Platform Development|AI|
+|-------|------|-----|-------|----|--------------------------|--|
+|Visual Studio Basic|Basic|Basic|Android Studio Basic|Basic|Dart|Special Math for Machine learning|
+|Git & GitHub|OOP|GDScript|Java for Android|OOP|Flutter|Decision tree|
+|Intellij Basic|Basic teach|Libraries||||Artificial neural networks|
+|Shell Basic|APIs|Plugins|||||
+|Constract Basic|Data Science|2D teach|||||
+|Algoritm Base||Scripting teach|||||
+
+## Camputer
 - ICDL Professional (from Linda)
 - Windows Professional
 - Basic teach
 - ICDL teach
 - VMware Workstation Professional
-### Network
+## Network
 - Linux Base
 - LPIC (2)
 - Network+
-### Graphic & UI/UX
-#### General
-- Character design
-- UI/UX Basic
-- ProShow Gold Professional
-#### Adobe
-- Animate 2020
-- Illustrator 2022
-- Illustrator 2023
-- Photoshop 2020
-- XD 56
-#### Font Design & Develpment
-- Typography
-- Caligraphy
-- TypeFace design
-- Font Development Basic
-- Font Creator Professional
-- FontLab 7 Basic
-### 3D & Animation
-- Moho Basic
-- Maya Basic
+## Graphic & UI/UX
+|General|Adobe|Font Design & Develpment|3D & Animation|
+|-------|-----|------------------------|--------------|
+|Character design|Animate 2020|Typography|Moho Basic
+|UI/UX Basic|Illustrator 2022 & 2023|Caligraphy|Maya Modeling
+|ProShow Gold Professional|Photoshop 2020|TypeFace design
+||XD 56|Font Development Basic
+|||Font Creator Professional
+|||FontLab 7 Basic
