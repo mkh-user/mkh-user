@@ -10,7 +10,11 @@ I'm Mahan Khalili, developer from Iran.
 
 <p align="center"> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a>
 
+<p align="center"> <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg /></a> 
+
 [![wakatime](https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg)](https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f)
+
+<p align="center"> <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg /></a> 
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=mkhuser&layout=)](https://github.com/mkh-user)
 
