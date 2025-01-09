@@ -1,16 +1,26 @@
 # My Profile
 
-Welcome!
+Welcome to this page; I'm Mahan Khalili, developer from Iran.
 
-I'm Mahan Khalili, developer from Iran.
+# Statistics
+<a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg"/></a>
 
-<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkh-user&show_icons=true&include_all_commits=true&theme=gotham" alt="github stats" /></a></p>
+![Python](https://img.shields.io/badge/Python-l?style=flat&logo=python&logoColor=ffdc52&color=3c78a9)
+![C++](https://img.shields.io/badge/C%2B%2B-l?style=flat&logo=c%2B%2B&color=004283)
+![C](https://img.shields.io/badge/C-l?style=flat&logo=c&color=004283)
+![GDScript](https://img.shields.io/badge/GDScript-l?style=flat&logo=godotengine&color=EEEEEE)
+![Flutter](https://img.shields.io/badge/Flutter-l?style=flat&logo=flutter&logoColor=06589c&color=46d1fe)
+![Dart](https://img.shields.io/badge/Dart-l?style=flat&logo=dart&logoColor=06589c&color=46d1fe)
+![Java](https://img.shields.io/badge/Java-l?style=flat&color=ec2025)
 
-<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> </p>
+![Personal Stars](https://img.shields.io/github/stars/mkh-user?style=flat&label=Personal%20Stars&color=FFFF00)
+![Subject Team Stars](https://img.shields.io/github/stars/Subject-Team?style=flat&label=Stars%20At%20Subject%20Team&color=FFFF00)
+![Ebtekar Web Stars](https://img.shields.io/github/stars/EbtekarWeb?style=flat&label=Stars%20At%20Ebtekar%20Web&color=FFFF00)
+![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)
 
-<p align="center"> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a></p>
+[![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/mkh-user)
 
-<p align="center"> <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg"/></a> </p>
+<a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a>
 
 # Officials
 
@@ -59,7 +69,7 @@ CEO
        └── Customer Support Lead
 ```
 
-## Ebtekar Web
+## [Ebtekar Web](https://github.com/EbtekarWeb)
 ```
 CEO
   ├── Chief Technology Officer (CTO)
