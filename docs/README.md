@@ -94,6 +94,7 @@ CEO
   - SLib (Subject Library) is a library for Godot engine, which does the same thing as long codes in one line.
 - [Elementum (EC)](https://github.com/Subject-Team/Elementum-EC)
   - Elementum (Extended Classes Type) is a plugin for the Godot engine that allows adding and managing classes with new capabilities without changing the engine code using the user interface.
+
 ## Fonts
 - F Shahdad
 - F Nama
@@ -125,10 +126,12 @@ CEO
 - Basic teach
 - ICDL teach
 - VMware Workstation Professional
+
 ## Network
 - Linux Base
 - LPIC (2)
 - Network+
+
 ## Graphic & UI/UX
 |General|Adobe|Font Design & Develpment|3D & Animation|
 |-------|-----|------------------------|--------------|
