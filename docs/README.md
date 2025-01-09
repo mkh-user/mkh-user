@@ -1,19 +1,16 @@
-# My Profile (Main Page)
+# My Profile
 
 Welcome!
 
 I'm Mahan Khalili, developer from Iran.
 
-<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkh-user&show_icons=true&include_all_commits=true&theme=gotham" alt="github stats" /></a>
+<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkh-user&show_icons=true&include_all_commits=true&theme=gotham" alt="github stats" /></a></p>
 
-<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> 
+<p align="center"> <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> </p>
 
-<p align="center"> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a>
+<p align="center"> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a></p>
 
-<p align="center"> <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg"/></a> 
-
-<p align="center"> <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mkhuser&layout="/></a> 
-
+<p align="center"> <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg"/></a> </p>
 
 # Officials
 
