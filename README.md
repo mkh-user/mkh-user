@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> This page is currently not updated! See [this GitHub page](https://mkh-user.github.io/mkh-user/) for the main page.
 # Hi there 👋
 
 Welcome to my page!
