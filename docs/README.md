@@ -22,6 +22,8 @@ Welcome to this page; I'm Mahan Khalili, developer from Iran.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&custom_title=Top%20Langs%20(Personal%20Projects)&layout=compact&size_weight=0&count_weight=1&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
 
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mkh-user&hide_contributor_rank=false&order_by=contributions&hide=B&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)
+
 # Top Projects
 [![SLib Card](https://github-readme-stats.vercel.app/api/pin/?username=subject-team&repo=slib&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/subject-team/slib)
 [![Elementum (EC) Card](https://github-readme-stats.vercel.app/api/pin/?username=subject-team&repo=elementum-ec&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/subject-team/elementum-ec)
