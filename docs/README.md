@@ -18,7 +18,8 @@ Welcome to this page; I'm Mahan Khalili, developer from Iran.
 ![Ebtekar Web Stars](https://img.shields.io/github/stars/EbtekarWeb?style=flat&label=Stars%20At%20Ebtekar%20Web&color=FFFF00)
 ![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)
 
-[![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/mkh-user)
+[![mkh-user's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true#gh-light-mode-only)](https://github.com/mkh-user)
+[![mkh-user's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mkh-user)
 
 <a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a>
 
