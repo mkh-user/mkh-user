@@ -18,10 +18,13 @@ Welcome to this page; I'm Mahan Khalili, developer from Iran.
 ![Ebtekar Web Stars](https://img.shields.io/github/stars/EbtekarWeb?style=flat&label=Stars%20At%20Ebtekar%20Web&color=FFFF00)
 ![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)
 
-[![mkh-user's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true#gh-light-mode-only)](https://github.com/mkh-user)
-[![mkh-user's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mkh-user)
+[![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
 
-<a href="https://github.com/mkh-user"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&layout=compact&theme=gotham" /></a> <a href="https://github.com/Subject-Team/SLib"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subject-Team&repo=SLib&theme=gotham" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&custom_title=Top%20Langs%20(Personal%20Projects)&layout=compact&size_weight=0&count_weight=1&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
+
+# Top Projects
+[![SLib Card](https://github-readme-stats.vercel.app/api/pin/?username=subject-team&repo=slib&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/subject-team/slib)
+[![Elementum (EC) Card](https://github-readme-stats.vercel.app/api/pin/?username=subject-team&repo=elementum-ec&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/subject-team/elementum-ec)
 
 # Officials
 
