@@ -110,8 +110,8 @@ CEO
   - SLib (Subject Library) is a library for Godot engine, which does the same thing as long codes in one line.
 - [Elementum (EC)](https://github.com/Subject-Team/Elementum-EC)
   - Elementum (Extended Classes Type) is a plugin for the Godot engine that allows adding and managing classes with new capabilities without changing the engine code using the user interface.
-- [Elementum](https://github.com/Subject-Team/Elementum) 
-  -Elementum is an automatic library manager, this plugin creates an auto-load for scripts in the Libraries folder so that there is no need to instance them.
+- [Elementum (LM)](https://github.com/Subject-Team/Elementum) 
+  - Elementum (Library Manager Type) is an automatic library manager, this plugin creates an auto-load for scripts in the Libraries folder so that there is no need to instance them.
 
 ## Fonts
 - F Shahdad
