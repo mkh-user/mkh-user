@@ -16,7 +16,7 @@ Welcome to this page; I'm Mahan Khalili, developer from Iran.
 ![Personal Stars](https://img.shields.io/github/stars/mkh-user?style=flat&label=Personal%20Stars&color=FFFF00)
 ![Subject Team Stars](https://img.shields.io/github/stars/Subject-Team?style=flat&label=Stars%20At%20Subject%20Team&color=FFFF00)
 ![Ebtekar Web Stars](https://img.shields.io/github/stars/EbtekarWeb?style=flat&label=Stars%20At%20Ebtekar%20Web&color=FFFF00)
-![Pulse Stars](https://img.shields.io/github/stars/GDPulse?style=flat&label=Stars%20At%20EPulse&color=FFFF00)
+![Pulse Stars](https://img.shields.io/github/stars/GDPulse?style=flat&label=Stars%20At%20Pulse&color=FFFF00)
 ![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)
 
 [![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
