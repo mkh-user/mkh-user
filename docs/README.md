@@ -150,6 +150,7 @@ CEO
 - Network+
 
 ## Graphic & UI/UX
+
 |General|Adobe|Font Design & Develpment|3D & Animation|
 |-------|-----|------------------------|--------------|
 |Character design|Animate 2020|Typography|Moho Basic
