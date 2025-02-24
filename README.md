@@ -1,4 +1,3 @@
-![Github Metrics](https://github.com/mkh-user/mkh-user/blob/main/github-metrics.svg)
 
 # Hi there 👋
 
