@@ -115,7 +115,7 @@ CEO
   - SLib (Subject Library) is a library for Godot engine, which does the same thing as long codes in one line.
 - [Elementum](https://github.com/mkh-user/Elementum)
   - Elementum (Fast Project Setup) is a plugin for the Godot engine that allows adding and managing classes, libraries and nodes with new capabilities without changing the engine code or intall plugin, just using the user interface!
-- [TopNote](https://github.com/mkh-user/TopNote)
+- [TopNote](https://github.com/gdpulse/TopNote)
   - Top Note is a plugin that adds new panel to your editor with note, to do list, task, save codes and other options.
 - [GProgress](https://github.com/mkh-user/GProgress)
   - GProgress is a player progress and game state manager with save, load, autosave, backup, multi-user, multi-save, paralled progress saves, user profiles, encryption, compression and more...
