@@ -134,14 +134,17 @@ CEO
 
 # Skils
 ## Programming
-|General|Python|Godot|Android|Java|Cross Platform Development|AI|
-|-------|------|-----|-------|----|--------------------------|--|
-|Visual Studio Basic|Basic|Basic|Android Studio Basic|Basic|Dart|Special Math for Machine learning|
-|Git & GitHub|OOP|GDScript|Java for Android|OOP|Flutter|Decision tree|
-|Intellij Basic|Basic teach|Libraries||||Artificial neural networks|
-|Shell Basic|APIs|Plugins|||||
-|Constract Basic|Data Science|2D teach|||||
-|Algoritm Base||Scripting teach|||||
+## Skills
+
+| General              | Python       | Godot        | Android              | Java  | Cross Platform Development | AI                             |
+|----------------------|--------------|--------------|----------------------|-------|-----------------------------|--------------------------------|
+| Visual Studio Basic  | Basic        | Basic        | Android Studio Basic | Basic | Dart                        | Special Math for Machine Learning |
+| Git & GitHub         | OOP          | GDScript     | Java for Android     | OOP   | Flutter                     | Decision tree                  |
+| Intellij Basic       | Basic teach  | Libraries    |                      |       |                             | Artificial neural networks     |
+| Shell Basic          | APIs         | Plugins      |                      |       |                             |                                |
+| Constract Basic      | Data Science | 2D teach     |                      |       |                             |                                |
+| Algorithm Base       |              | Scripting teach |                      |       |                             |                                |
+
 
 ## Camputer
 - ICDL Professional (from Linda)
