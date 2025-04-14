@@ -3,6 +3,9 @@
 
 Welcome to this page; I'm Mahan Khalili, developer from Iran.
 
+> [!Note] 
+> I'm a little busy right now, The content of this page will be updated soon!
+
 # Statistics
 <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg"/></a>
 
