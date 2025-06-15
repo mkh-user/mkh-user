@@ -58,9 +58,9 @@ CEO
        └── QA Lead
 ```
 
-## CodeGraphic
+## [CodeGraphic](https://eitaa.com/codegraphic)
 ```
-CEO
+CEO ✓
   ├── Chief Design Officer (CDO)
   │    ├── Art Director
   │    │    ├── Lead Font Designer
@@ -85,7 +85,7 @@ CEO
 
 ## [Ebtekar Web](https://github.com/EbtekarWeb)
 ```
-CEO
+CEO ✓
   ├── Chief Technology Officer (CTO)
   │    ├── Web Development Manager
   │    │    ├── Front-End Developer
@@ -110,7 +110,25 @@ CEO
        ├── Sales Manager
        └── Customer Support Lead
 ```
-## GDPulse
+## [GDPulse](https://github.com/GDPulse)
+```
+CEO ✓
+  ├── Chief Technology Officer (CTO)
+  │    ├── Product Manager
+  │    │    ├── Technical Lead 
+  │    │    │    ├── Senior Developer
+  │    │    │    │    ├── Developer
+  │    │    │    │    │    ├── SysAdmin
+  │    │    │    │    │    │    └── Security Analyst
+  │    │    │    │    │    └── Junior Developer
+  │    │    │    │    │         └── Technical Writer
+  │    │    │    │    └── DevOps Engineer
+  │    │    │    │    └── UX/UI Designer
+  ├── Chief Operating Officer (COO)
+  │    └── HR Manager
+  └── Project Manager ✓
+       └── QA Lead
+```
 
 # Projects
 ## Godot
