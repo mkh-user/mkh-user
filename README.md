@@ -42,16 +42,16 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ```
 CEO
   ├── Chief Technology Officer (CTO)
-  │    ├── Product Manager
-  │    │    ├── Technical Lead ✓
-  │    │    │    ├── Senior Developer
-  │    │    │    │    ├── Developer
-  │    │    │    │    │    ├── SysAdmin
-  │    │    │    │    │    │    └── Security Analyst
-  │    │    │    │    │    └── Junior Developer
-  │    │    │    │    │         └── Technical Writer
-  │    │    │    │    └── DevOps Engineer
-  │    │    │    │    └── UX/UI Designer
+  │    └── Product Manager
+  │         └── Technical Lead ✓
+  │              └── Senior Developer
+  │                   ├── Developer
+  │                   │    ├── SysAdmin
+  │                   │    │    └── Security Analyst
+  │                   │    └── Junior Developer
+  │                   │         └── Technical Writer
+  │                   ├── DevOps Engineer
+  │                   └── UX/UI Designer
   ├── Chief Operating Officer (COO) ✓
   │    └── HR Manager
   └── Project Manager ✓
