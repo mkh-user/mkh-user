@@ -38,99 +38,18 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 
 # Officials
 
-## [Subject Team](https://github.com/subject-team/)
-```
-CEO
-  ├── Chief Technology Officer (CTO)
-  │    └── Product Manager
-  │         └── Technical Lead ✓
-  │              └── Senior Developer
-  │                   ├── Developer
-  │                   │    ├── SysAdmin
-  │                   │    │    └── Security Analyst
-  │                   │    └── Junior Developer
-  │                   │         └── Technical Writer
-  │                   ├── DevOps Engineer
-  │                   └── UX/UI Designer
-  ├── Chief Operating Officer (COO) ✓
-  │    └── HR Manager
-  └── Project Manager ✓
-       └── QA Lead
-```
+### [Subject Team](https://github.com/subject-team/) - CTO
 
-## [CodeGraphic](https://eitaa.com/codegraphic)
-```
-CEO ✓
-  ├── Chief Design Officer (CDO)
-  │    ├── Art Director
-  │    │    ├── Lead Font Designer
-  │    │    │    ├── Font Designer
-  │    │    │    ├── Junior Font Designer
-  │    │    │    └── Typography Specialist ✓
-  │    │    └── Graphic Designer
-  │    │    └── UI/UX Designer ✓
-  ├── Chief Technology Officer (CTO) ✓
-  │    ├── Development Lead
-  │    │    ├── Font Engineer
-  │    │    │    ├── Senior Developer
-  │    │    │    └── Junior Developer
-  │    │    └── DevOps Engineer
-  │    │    └── QA Engineer
-  └── Chief Operating Officer (COO)
-       ├── HR Manager
-       ├── Marketing Manager
-       ├── Sales Manager
-       └── Customer Support Lead
-```
+## [CodeGraphic](https://eitaa.com/codegraphic) - CEO
 
-## [Ebtekar Web](https://github.com/EbtekarWeb)
-```
-CEO ✓
-  ├── Chief Technology Officer (CTO)
-  │    ├── Web Development Manager
-  │    │    ├── Front-End Developer
-  │    │    ├── Back-End Developer
-  │    │    ├── Full-Stack Developer
-  │    │    └── DevOps Engineer ✓
-  │    └── QA Manager
-  │         ├── QA Engineer
-  │         └── Test Automation Engineer
-  ├── Chief Design Officer (CDO)
-  │    ├── UI/UX Design Manager
-  │    │    ├── UI Designer
-  │    │    ├── UX Designer ✓
-  │    │    └── Graphic Designer
-  ├── Chief Marketing Officer (CMO)
-  │    ├── Digital Marketing Manager
-  │    │    ├── SEO Specialist
-  │    │    ├── Content Strategist
-  │    │    └── Social Media Manager
-  └── Chief Operating Officer (COO) ✓
-       ├── HR Manager
-       ├── Sales Manager
-       └── Customer Support Lead
-```
-## [GDPulse](https://github.com/GDPulse)
-```
-CEO ✓
-  ├── Chief Technology Officer (CTO)
-  │    ├── Product Manager
-  │    │    ├── Technical Lead 
-  │    │    │    ├── Senior Developer
-  │    │    │    │    ├── Developer
-  │    │    │    │    │    ├── SysAdmin
-  │    │    │    │    │    │    └── Security Analyst
-  │    │    │    │    │    └── Junior Developer
-  │    │    │    │    │         └── Technical Writer
-  │    │    │    │    └── DevOps Engineer
-  │    │    │    │    └── UX/UI Designer
-  ├── Chief Operating Officer (COO)
-  │    └── HR Manager
-  └── Project Manager ✓
-       └── QA Lead
-```
+## [Ebtekar Web](https://github.com/EbtekarWeb) - COO
+
+## [GDPulse](https://github.com/GDPulse) - CEO
 
 # Projects
+## Text Forge
+[![TF Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=elementum&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/text-forge)
+
 ## Godot
 ### Libraries & Plugins
 - [SLib](https://github.com/Subject-Team/SLib)
