@@ -40,11 +40,11 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 
 ### [Subject Team](https://github.com/subject-team/) - CTO
 
-## [CodeGraphic](https://eitaa.com/codegraphic) - CEO
+### [CodeGraphic](https://eitaa.com/codegraphic) - CEO
 
-## [Ebtekar Web](https://github.com/EbtekarWeb) - COO
+### [Ebtekar Web](https://github.com/EbtekarWeb) - COO
 
-## [GDPulse](https://github.com/GDPulse) - CEO
+### [GDPulse](https://github.com/GDPulse) - CEO
 
 # Projects
 ## Text Forge
