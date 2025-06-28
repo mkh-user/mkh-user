@@ -48,7 +48,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 
 # Projects
 ## Text Forge
-[![TF Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=elementum&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/text-forge)
+[![TF Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/text-forge)
 
 ## Godot
 ### Libraries & Plugins
