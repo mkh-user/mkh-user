@@ -31,6 +31,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mkh-user&hide_contributor_rank=false&order_by=contributions&hide=B&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)
 
 # Top Projects
+[![Text Forge Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/text-forge)
 [![SLib Card](https://github-readme-stats.vercel.app/api/pin/?username=subject-team&repo=slib&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/subject-team/slib)
 [![TopNote Card](https://github-readme-stats.vercel.app/api/pin/?username=gdpulse&repo=topnote&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/gdpulse/topnote)
 [![GProgress Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=gprogress&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/gprogress)
@@ -47,8 +48,8 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ### [GDPulse](https://github.com/GDPulse) - CEO
 
 # Projects
-## Text Forge
-[![TF Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/text-forge)
+## [Text Forge](https://github.com/mkh-user/text-forge)
+Text Forge is a highliy modular and extendable code edotr
 
 ## Godot
 ### Libraries & Plugins
