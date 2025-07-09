@@ -22,6 +22,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ![Subject Team Stars](https://img.shields.io/github/stars/Subject-Team?style=flat&label=Stars%20At%20Subject%20Team&color=FFFF00)
 ![Ebtekar Web Stars](https://img.shields.io/github/stars/EbtekarWeb?style=flat&label=Stars%20At%20Ebtekar%20Web&color=FFFF00)
 ![Pulse Stars](https://img.shields.io/github/stars/GDPulse?style=flat&label=Stars%20At%20Pulse&color=FFFF00)
+![Text Forge Stars](https://img.shields.io/github/stars/text-forge?style=flat&label=Stars%20At%20Text%20Forge&color=FFFF00)
 ![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)
 
 [![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
@@ -31,7 +32,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mkh-user&hide_contributor_rank=false&order_by=contributions&hide=B&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)
 
 # Top Projects
-[![Text Forge Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/text-forge)
+[![Text Forge Card](https://github-readme-stats.vercel.app/api/pin/?username=text-forge&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/text-forge/text-forge)
 [![SLib Card](https://github-readme-stats.vercel.app/api/pin/?username=subject-team&repo=slib&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/subject-team/slib)
 [![TopNote Card](https://github-readme-stats.vercel.app/api/pin/?username=gdpulse&repo=topnote&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/gdpulse/topnote)
 [![GProgress Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=gprogress&show_icons=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/gprogress)
@@ -39,7 +40,9 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 
 # Officials
 
-### [Subject Team](https://github.com/subject-team/) - CTO
+### [Subject Team](https://github.com/subject-team) - CTO
+
+### [Text Forge](https://github.com/text-forge) - CEO
 
 ### [CodeGraphic](https://eitaa.com/codegraphic) - CEO
 
@@ -48,7 +51,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ### [GDPulse](https://github.com/GDPulse) - CEO
 
 # Projects
-## [Text Forge](https://github.com/mkh-user/text-forge)
+## [Text Forge](https://github.com/text-forge/text-forge)
 Text Forge is a highliy modular and extendable code edotr
 
 ## Godot
