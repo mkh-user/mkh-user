@@ -3,32 +3,14 @@
 
 Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 
-> [!Note] 
-> I'm a little busy right now, The content of this page will be updated soon!
-
 # Statistics
 
-<a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg"/></a>
-
-![Python](https://img.shields.io/badge/Python-l?style=flat&logo=python&logoColor=ffdc52&color=3c78a9)
-![C++](https://img.shields.io/badge/C%2B%2B-l?style=flat&logo=c%2B%2B&color=004283)
-![C](https://img.shields.io/badge/C-l?style=flat&logo=c&color=004283)
-![GDScript](https://img.shields.io/badge/GDScript-l?style=flat&logo=godotengine&color=EEEEEE)
-![Flutter](https://img.shields.io/badge/Flutter-l?style=flat&logo=flutter&logoColor=06589c&color=46d1fe)
-![Dart](https://img.shields.io/badge/Dart-l?style=flat&logo=dart&logoColor=06589c&color=46d1fe)
-![Java](https://img.shields.io/badge/Java-l?style=flat&color=ec2025)
-
-![Personal Stars](https://img.shields.io/github/stars/mkh-user?style=flat&label=Personal%20Stars&color=FFFF00)
-![Subject Team Stars](https://img.shields.io/github/stars/Subject-Team?style=flat&label=Stars%20At%20Subject%20Team&color=FFFF00)
-![Ebtekar Web Stars](https://img.shields.io/github/stars/EbtekarWeb?style=flat&label=Stars%20At%20Ebtekar%20Web&color=FFFF00)
-![Pulse Stars](https://img.shields.io/github/stars/GDPulse?style=flat&label=Stars%20At%20Pulse&color=FFFF00)
-![Text Forge Stars](https://img.shields.io/github/stars/text-forge?style=flat&label=Stars%20At%20Text%20Forge&color=FFFF00)
-![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)
+### Coding: <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f"><img align="center" src="https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg"/></a>
+### Languages and Technologies: ![Python](https://img.shields.io/badge/Python-l?style=flat&logo=python&logoColor=ffdc52&color=3c78a9) ![C++](https://img.shields.io/badge/C%2B%2B-l?style=flat&logo=c%2B%2B&color=004283) ![C](https://img.shields.io/badge/C-l?style=flat&logo=c&color=004283) ![GDScript](https://img.shields.io/badge/GDScript-l?style=flat&logo=godotengine&color=EEEEEE) ![Flutter](https://img.shields.io/badge/Flutter-l?style=flat&logo=flutter&logoColor=06589c&color=46d1fe) ![Dart](https://img.shields.io/badge/Dart-l?style=flat&logo=dart&logoColor=06589c&color=46d1fe) ![Java](https://img.shields.io/badge/Java-l?style=flat&color=ec2025) ![JavaScript](https://img.shields.io/badge/JavaScript-l?style=flat&logo=javascript&color=B0B000&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/HTML-l?style=flat&logo=html5&color=EEEEEE) ![CSS](https://img.shields.io/badge/CSS-l?style=flat&logo=css&color=EEEEEE&logoColor=0000F0)
+### Stars: ![Personal Stars](https://img.shields.io/github/stars/mkh-user?style=flat&label=Personal%20Stars&color=FFFF00) ![Subject Team Stars](https://img.shields.io/github/stars/Subject-Team?style=flat&label=Stars%20At%20Subject%20Team&color=FFFF00) ![Ebtekar Web Stars](https://img.shields.io/github/stars/EbtekarWeb?style=flat&label=Stars%20At%20Ebtekar%20Web&color=FFFF00) ![Pulse Stars](https://img.shields.io/github/stars/GDPulse?style=flat&label=Stars%20At%20Pulse&color=FFFF00) ![Text Forge Stars](https://img.shields.io/github/stars/text-forge?style=flat&label=Stars%20At%20Text%20Forge&color=FFFF00) ![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)
 
 [![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&custom_title=Top%20Langs%20(Personal%20Projects)&layout=compact&size_weight=0&count_weight=1&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
-
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mkh-user&hide_contributor_rank=false&order_by=contributions&hide=B&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)
 
 # Top Projects
