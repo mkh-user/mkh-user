@@ -52,8 +52,8 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ### F Parto
 ### F Maqdur
 
-# 🎓Learning At Free Time
-- Machine Learning
+# 🎓Currently Learning
+- "Complete AI engineering for national AI olympiad" at YSC
 
 # 🌐My Pages
 - [My Social Media Accounts at "My WorkBank"](https://soo.is/wqLGri)
