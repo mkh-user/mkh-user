@@ -17,7 +17,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 # 🏅Top Projects
 [![Text Forge Card](https://github-readme-stats.vercel.app/api/pin/?username=text-forge&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=ffffff)](https://github.com/text-forge/text-forge)
 [![SLib Card](https://github-readme-stats.vercel.app/api/pin/?username=subject-team&repo=slib&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=ffffff)](https://github.com/subject-team/slib)
-[![TopNote Card](https://github-readme-stats.vercel.app/api/pin/?username=gdpulse&repo=topnote&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=ffffff)](https://github.com/gdpulse/topnote)
+[![TopNote Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=topnote&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=ffffff)](https://github.com/mkh-user/topnote)
 [![GProgress Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=gprogress&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=ffffff)](https://github.com/mkh-user/gprogress)
 [![Elementum Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=elementum&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=ffffff)](https://github.com/mkh-user/elementum)
 
@@ -31,8 +31,6 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 
 ### [Ebtekar Web](https://github.com/EbtekarWeb) - COO
 
-### [GDPulse](https://github.com/GDPulse) - CEO
-
 # 📚Projects
 ## Applications
 ### [Text Forge](https://github.com/text-forge/text-forge)
@@ -43,7 +41,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
   SLib (Subject Library) is a library for Godot engine, which does the same thing as long codes in one line.
 ### [Elementum](https://github.com/mkh-user/Elementum)
   Elementum (Fast Project Setup) is a plugin for the Godot engine that allows adding and managing classes, libraries and nodes with new capabilities without changing the engine code or intall plugin, just using the user interface!
-### [TopNote](https://github.com/gdpulse/TopNote)
+### [TopNote](https://github.com/mkh-user/TopNote)
   Top Note is a plugin that adds new panel to your editor with note, to do list, task, save codes and other options.
 ### [GProgress](https://github.com/mkh-user/GProgress)
   GProgress is a player progress and game state manager with save, load, autosave, backup, multi-user, multi-save, paralled progress saves, user profiles, encryption, compression and more...
