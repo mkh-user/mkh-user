@@ -14,6 +14,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 [![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&custom_title=Top%20Langs%20(Personal%20Projects)&layout=compact&size_weight=1&count_weight=0&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
 [![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mkh-user&hide_contributor_rank=false&order_by=contributions&hide=B&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user) 
+[![roadmap.sh](https://roadmap.sh/card/tall/662a2ba24e8cd00d389ec297?variant=dark&roadmaps=machine-learning%2Cpython%2Cai-data-scientist%2Cai-engineer)](https://roadmap.sh)
 
 # 🏅Top Projects
 [![Text Forge Card](https://github-readme-stats.vercel.app/api/pin/?username=text-forge&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/text-forge/text-forge)
