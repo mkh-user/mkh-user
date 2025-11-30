@@ -90,6 +90,3 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ||XD 56|Font Development Basic
 |||Font Creator Professional
 |||FontLab 7 Basic
-
-## Random Joke:
-![Jokes Card](https://readme-jokes.vercel.app/api)
