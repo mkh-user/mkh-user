@@ -54,7 +54,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ### F Maqdur
 
 # 🎓Currently Learning
-- "Complete AI engineering for national AI olympiad" at YSC
+- Master Software Architecture Design
 
 # 🌐My Pages
 - [My Social Media Accounts at "My WorkBank"](https://soo.is/wqLGri)
@@ -67,9 +67,10 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 |Visual Studio Basic|Basic|Basic|Android Studio Basic|Basic|Dart|Special Math for Machine learning|
 |Git & GitHub|OOP|GDScript|Java for Android|OOP|Flutter|Decision tree|
 |Intellij Basic|Basic teach|Libraries||||Artificial neural networks|
-|Shell Basic|APIs|Plugins|||||
-|Constract Basic|Data Science|2D teach|||||
-|Algoritm Base||Scripting teach|||||
+|Shell Basic|APIs|Plugins||||RNNs|
+|Constract Basic|Data Science|2D teach||||CNNs|
+|Algoritm Base||Scripting teach||||Transformers|
+||||||||AI Engineering|
 
 ## Camputer
 - ICDL Professional (from Linda)
