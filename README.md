@@ -70,7 +70,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 |Shell Basic|APIs|Plugins||||RNNs|
 |Constract Basic|Data Science|2D teach||||CNNs|
 |Algoritm Base||Scripting teach||||Transformers|
-||||||||AI Engineering|
+|||||||AI Engineering|
 
 ## Camputer
 - ICDL Professional (from Linda)
