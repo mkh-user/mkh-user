@@ -23,6 +23,12 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 [![GProgress Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=gprogress&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/gprogress)
 [![Elementum Card](https://github-readme-stats.vercel.app/api/pin/?username=mkh-user&repo=elementum&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user/elementum)
 
+# ⏰Currently
+> I'm currently working on a lot of projects (a little more than I should 😅), so I'd gladly accept and appreciate any contribution in any way to the following projects or other repositories maintained by me and my organizations.
+- [TextForge](https://github.com/text-forge/text-forge) (In Development)
+- [GDScript LSP Client](https://github.com/mkh-user/godot-lsp-client) (Research & Testing)
+- [OmniFlux Language](https://github.com/mkh-user/omni-flux) (Shaping Concept)
+
 # 👥Officials
 
 ### [Subject Team](https://github.com/subject-team) - Lead Developer
@@ -32,12 +38,6 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 ### [CodeGraphic](https://eitaa.com/codegraphic) - Lead Designer
 
 ### [Ebtekar Web](https://github.com/EbtekarWeb) - Lead WP Developer
-
-# ⏰Currently
-> I'm currently working on a lot of projects (a little more than I should 😅), so I'd gladly accept and appreciate any contribution in any way to the following projects or other repositories maintained by me and my organizations.
-- [TextForge](https://github.com/text-forge/text-forge) (In Development)
-- [GDScript LSP Client](https://github.com/mkh-user/godot-lsp-client) (Research & Testing)
-- [OmniFlux Language](https://github.com/mkh-user/omniflux) (Shaping Concept)
 
 # 📚Projects
 ## Applications
