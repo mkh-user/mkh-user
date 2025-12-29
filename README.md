@@ -27,7 +27,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 > I'm currently working on a lot of projects (a little more than I should 😅), so I'd gladly accept and appreciate any contribution in any way to the following projects or other repositories maintained by me and my organizations.
 - [TextForge](https://github.com/text-forge/text-forge) (In Development)
 - [GDScript LSP Client](https://github.com/mkh-user/godot-lsp-client) (Research & Testing)
-- [OmniFlux Language](https://github.com/mkh-user/omni-flux) (Shaping Concept)
+- [Pallad Language](https://github.com/pallad-lang/pallad) (Implementing)
 
 # 👥Officials
 
