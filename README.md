@@ -28,6 +28,7 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 - [TextForge](https://github.com/text-forge/text-forge) (In Development)
 - [GDScript LSP Client](https://github.com/mkh-user/godot-lsp-client) (Research & Testing)
 - [Pallad Language](https://github.com/pallad-lang/pallad) (Implementing)
+- [Graphite (Graph DB Engine)](https://github.com/mkh-user/graphite) (Extending)
 
 # 👥Officials
 
@@ -41,17 +42,25 @@ Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
 
 # 📚Projects
 ## Applications
-### [Text Forge](https://github.com/text-forge/text-forge)
+### [Text Forge](https://github.com/text-forge/text-forge) Code Editor 
   Text Forge is a highliy modular and extendable code edotr
+### [Graph Nexa](https://github.com/mkh-user/graph-nexa) Data Processing Tool
+  An experimental data processing manager based on graph nodes and external modules scripting
+
+## Languages
+### [Pallad](https://github.com/pallad-lang/pallad) Language
+  Pallad is a feature rich high-level scripting language (experimental)
 
 ## Libraries & Plugins
-### [SLib](https://github.com/Subject-Team/SLib)
+### [SLib](https://github.com/Subject-Team/SLib) Godot Plugin (Library) 
   SLib (Subject Library) is a library for Godot engine, which does the same thing as long codes in one line.
-### [Elementum](https://github.com/mkh-user/Elementum)
+### [Graphite](https://github.com/mkh-user/graphite) Graph DB Engine
+  A clean graph database engine!
+### [Elementum](https://github.com/mkh-user/Elementum) Plugin
   Elementum (Fast Project Setup) is a plugin for the Godot engine that allows adding and managing classes, libraries and nodes with new capabilities without changing the engine code or intall plugin, just using the user interface!
-### [TopNote](https://github.com/mkh-user/TopNote)
+### [TopNote](https://github.com/mkh-user/TopNote) Plugin
   Top Note is a plugin that adds new panel to your editor with note, to do list, task, save codes and other options.
-### [GProgress](https://github.com/mkh-user/GProgress)
+### [GProgress](https://github.com/mkh-user/GProgress) Plugin
   GProgress is a player progress and game state manager with save, load, autosave, backup, multi-user, multi-save, paralled progress saves, user profiles, encryption, compression and more...
 
 ## Fonts
