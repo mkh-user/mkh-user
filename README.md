@@ -1,20 +1,20 @@
-
 # Hi there 👋
 
-Welcome to this page; I'm Mahan Khalili, developer from IRIran🇮🇷
+Welcome to this page; I'm Mahan Khalili, developer from IRIran
 
 # 📊 Statistics
 
 ### ⏱️Coding: [![WakaTime](https://wakatime.com/badge/user/2d338125-04d1-4845-afab-1079f7117f8f.svg)](https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f)
 
-### 🧰Languages and Technologies: ![Python](https://img.shields.io/badge/Python-l?style=flat&logo=python&logoColor=ffdc52&color=3c78a9) ![C++](https://img.shields.io/badge/C%2B%2B-l?style=flat&logo=c%2B%2B&color=004283) ![C](https://img.shields.io/badge/C-l?style=flat&logo=c&color=004283) ![GDScript](https://img.shields.io/badge/GDScript-l?style=flat&logo=godotengine&color=EEEEEE) ![Flutter](https://img.shields.io/badge/Flutter-l?style=flat&logo=flutter&logoColor=06589c&color=46d1fe) ![Dart](https://img.shields.io/badge/Dart-l?style=flat&logo=dart&logoColor=06589c&color=46d1fe) ![Java](https://img.shields.io/badge/Java-l?style=flat&color=ec2025) ![JavaScript](https://img.shields.io/badge/JavaScript-l?style=flat&logo=javascript&color=B0B000&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/HTML-l?style=flat&logo=html5&color=EEEEEE) ![CSS](https://img.shields.io/badge/CSS-l?style=flat&logo=css&color=EEEEEE&logoColor=0000F0)
+### 🧰Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ae,androidstudio,arch,arduino,atom,au,autocad,bash,blender,c,cs,cpp,clion,css,dart,debian,discord,django,docker,dotnet,eclipse,figma,flask,flutter,git,github,githubactions,gitlab,gmail,go,gradle,godot,html,idea,ai,java,js,kali,kotlin,latex,linkedin,linux,md,mysql,opencv,ps,php,phpstorm,powershell,pr,pycharm,py,pytorch,qt,r,redhat,regex,replit,rider,rust,sqlite,stackoverflow,sublime,sklearn,svg,tensorflow,ubuntu,visualstudio,vscode,windows,wordpress,xd" alt="Loading..."><br>
+And more...
+<br><br><br>
 
-### 🌟Stars: [![Personal Stars](https://img.shields.io/github/stars/mkh-user?style=flat&label=Personal%20Stars&color=FFFF00)](https://github.com/mkh-user) [![Subject Team Stars](https://img.shields.io/github/stars/Subject-Team?style=flat&label=Stars%20At%20Subject%20Team&color=FFFF00)](https://github.com/Subject-Team)  [![Text Forge Stars](https://img.shields.io/github/stars/text-forge?style=flat&label=Stars%20At%20Text%20Forge&color=FFFF00)](https://github.com/text-forge) [![Personal Followers](https://img.shields.io/github/followers/mkh-user?label=Followers&style=flat&color=0000FF)](https://github.com/mkh-user) 
-
-[![mkh-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkh-user&hide=stars&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkh-user&custom_title=Top%20Langs%20(Personal%20Projects)&layout=compact&size_weight=1&count_weight=0&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user)
-[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mkh-user&hide_contributor_rank=false&order_by=contributions&hide=B&bg_color=30,155798,15757b,159858&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/mkh-user) 
 [![roadmap.sh](https://roadmap.sh/card/tall/662a2ba24e8cd00d389ec297?variant=dark&roadmaps=machine-learning%2Cpython%2Cai-data-scientist%2Cai-engineer)](https://roadmap.sh)
+
+</div>
 
 # 🏅Top Projects
 [![Text Forge Card](https://github-readme-stats.vercel.app/api/pin/?username=text-forge&repo=text-forge&show_icons=true&bg_color=30,155798,15757b,159857&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/text-forge/text-forge)
