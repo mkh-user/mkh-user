@@ -4,10 +4,11 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Hey!+I'm+Mahan+Khalili+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%F0%9F%A4%96;Building+Graphite+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%8C%8D;From+Iran+%F0%9F%87%AE%F0%9F%87%B7) 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Hey!+I'm+Mahan+Khalili+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%F0%9F%A4%96;Building+Graphite+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%8C%8D;From+Iran+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing Animation" />
 </p>
 
 <div align="center">
+
+![GitHub Followers](https://img.shields.io/github/followers/mkh-user?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=GitHub%20followers&amp;labelColor=black&amp;color=darkviolet) 
 
   <a href="https://github.com/mkh-user">
     <img src="https://camo.githubusercontent.com/076ad42e1181e97d1fe546a2b475788750a19e1cb4e20922ac0992dc52bc4462/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6d6b682d757365723f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465266c6162656c3d476974487562253230666f6c6c6f77657273266c6162656c436f6c6f723d626c61636b26636f6c6f723d6461726b76696f6c6574" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/mkh-user?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=GitHub%20followers&amp;labelColor=black&amp;color=darkviolet" style="max-width: 100%;">
