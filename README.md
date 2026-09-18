@@ -99,8 +99,6 @@ _Main Items_
   <img src="https://camo.githubusercontent.com/1d0fa89653271e3bae3820081d046eabaf4905998d8fcc52a463feccef231599/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d6b682d75736572266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26726f6c653d4f574e45522c4f5247414e495a4154494f4e5f4d454d4245522c434f4c4c41424f5241544f52" alt="GitHub Stats" data-canonical-src="https://github-stats-extended.vercel.app/api/top-langs?username=mkh-user&amp;layout=compact&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="max-width: 100%;">
 </a>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkh-user&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%" />
-
 </div>
 
 ---
