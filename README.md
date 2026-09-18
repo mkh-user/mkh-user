@@ -8,17 +8,11 @@
 
 <div align="center">
 
-![GitHub Followers](https://img.shields.io/github/followers/mkh-user?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=GitHub%20followers&amp;labelColor=black&amp;color=darkviolet) 
+[![GitHub Followers](https://img.shields.io/github/followers/mkh-user?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=GitHub%20followers&amp;labelColor=black&amp;color=darkviolet)](https://github.com/mkh-user) 
 
-  <a href="https://github.com/mkh-user">
-    <img src="https://camo.githubusercontent.com/076ad42e1181e97d1fe546a2b475788750a19e1cb4e20922ac0992dc52bc4462/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6d6b682d757365723f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465266c6162656c3d476974487562253230666f6c6c6f77657273266c6162656c436f6c6f723d626c61636b26636f6c6f723d6461726b76696f6c6574" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/mkh-user?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=GitHub%20followers&amp;labelColor=black&amp;color=darkviolet" style="max-width: 100%;">
-  </a>
-  <a href="https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/7e6fb8375304a24845bc3190a2f7199d771b897d0eff724aef02a538bb686e90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77616b6174696d652d253242312532433430306872732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d77616b6174696d65266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d626c61636b26636f6c6f723d303038383030" alt="Wakatime" data-canonical-src="https://img.shields.io/badge/wakatime-%2B1%2C500hrs-black?style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;labelColor=black&amp;color=008800" style="max-width: 100%;">
-  </a>
-  <a href="https://linkedin.com/in/mahan-khalili-s/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/7aa7e5137c3f4c2025b6a2cf8d7b3d456b5a2629e00d7b91b4de4cec8716aaae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e5f50726f66696c652d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+[![Wakatime](https://img.shields.io/badge/wakatime-%2B1%2C500hrs-black?style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;labelColor=black&amp;color=008800)]("https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f) 
+
+[![LinkedIn]("https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/mahan-khalili-s/)
 
 </div>
 
