@@ -78,7 +78,7 @@ _Main Items_
 
 <img src="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript" alt="Python, Java, Rust, JS / TS">
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,php,html,css,kotlin,dart" alt="C, C++, C#, PHP, HTML / CSS, Kotlin, Dart">
-<img src="https://skillicons.dev/icons?i=padding,padding,androidstudio,arduino,django,dotnet,flask,flutter,qt,nodejs,padding,padding" alt="Android, Arduino, Django, .NET, Flask, Flutter, Qt, Node.js">
+<img src="https://skillicons.dev/icons?i=padding,androidstudio,arduino,django,dotnet,flask,flutter,qt,nodejs,padding" alt="Android, Arduino, Django, .NET, Flask, Flutter, Qt, Node.js">
 
 <h3>🧠 AI/ML & Data</h3>
 
