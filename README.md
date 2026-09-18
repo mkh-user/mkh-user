@@ -12,7 +12,7 @@
 
 [![Wakatime](https://img.shields.io/badge/wakatime-%2B1%2C500hrs-black?style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;labelColor=black&amp;color=008800)]("https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f) 
 
-[![LinkedIn]("https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/mahan-khalili-s/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/mahan-khalili-s/)
 
 </div>
 
