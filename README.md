@@ -10,7 +10,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/mkh-user?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=GitHub%20followers&amp;labelColor=black&amp;color=darkviolet)](https://github.com/mkh-user) 
 
-[![Wakatime](https://img.shields.io/badge/wakatime-%2B1%2C500hrs-black?style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;labelColor=black&amp;color=008800)]("https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f) 
+[![Wakatime](https://img.shields.io/badge/wakatime-%2B1%2C800hrs-black?style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;labelColor=black&amp;color=008800)]("https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/mahan-khalili-s/)
 
