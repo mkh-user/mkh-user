@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Hey!+I'm+Mahan+Khalili+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%F0%9F%A4%96;Building+Graphite+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%8C%8D;From+Iran+%F0%9F%87%AE%F0%9F%87%B7) 
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Hey!+I'm+Mahan+Khalili+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%F0%9F%A4%96;Open+Source+Lover+%F0%9F%8C%8D;From+Iran+%F0%9F%87%AE%F0%9F%87%B7) 
 
 </p>
 
