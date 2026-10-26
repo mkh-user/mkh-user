@@ -20,7 +20,7 @@
 
 - I'm **Mahan Khalili** (he/him), from **Iran**
 - **Full stack** developer 
-- Currently adding tons of skills to my abilities 
+- Continuously leveling up my skillset 
 - Contributing and maintaining **Open Source Projects**
 - My most used languages are **Python and Rust** now
 
@@ -44,6 +44,33 @@
 - DX-oriented tools and libraries for **Open Source Devs**
 
 ![roadmap.sh progress](https://roadmap.sh/card/tall/662a2ba24e8cd00d389ec297)
+
+---
+
+## 🌟 Featured Projects
+
+|Project|Description|Tech Stack|What I Learned|
+|-|-|-|-|
+|[Shopeek](https://shopeekapp.ir)|Automated sales analytics and CRM for Iranian online shops|FastAPI, React + Tailwind|Full stack workflow and DevOps|
+|[Text Forge](https://text-forge.github.io)|A modular and really hackable lightweight Code Editor|Godot Engine|Complex software architecture and UX, special language needs, OOP, modular architectures|
+|[Graphite](https://mkh-user.github.io/graphite)|In-process and structured zero-dep graph database|Python, PyTest|Extreme programming mastering, data modeling, optimization|
+|[Pite Engine](https://github.com/piteengine/pite)|A real game engine for Python developers|Rust, Python|FFI, rendering, protocol programming, low-level programming|
+|[EnhEx](https://github.com/mkh-user/enhex)|A cross-language robust wrapper around RegEx to make it really easy to read and maintain|Rust, Web Assembly, Python, JavaScript|Language-bridges, parsers, AST, code generators, transpilers|
+|[Telesense](https://github.com/EbParsa/Telesense)|(Contribution) Lightweight behavioral telemetry kit to improve UX|TypeScript|Browser integration, distributed systems, data management|
+|[Open Source Standard](https://github.com/mkh-user/open-source-standard)|Centralized maintenance guides and standards|Markdown, Python|Docs as Code, task documentation|
+|[LearnKit](https://github.com/mkh-user/learn-kit)|Zero-dependency machine learning toolkit for Godot games|GDScript, GLSL|GPU computing, neural networks, framework design, namespace organization|
+
+#### And experience through contributing to:
+
+- Godot Engine
+- Shields.io
+- PyFENN
+- Awesome Lists
+- Lorien
+
+```rust
+... && "Even More!";
+```
 
 ---
 
@@ -76,33 +103,6 @@ _Just Main Items :)_
 <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,blender" alt="Figma, Adobe Illustrator, Adobe Photoshop, Blender">
 
 </div>
-
----
-
-## 🌟 Featured Projects
-
-|Project|Description|Tech Stack|What I Learned|
-|-|-|-|-|
-|[Shopeek](https://shopeekapp.ir)|Automated sales analytics and CRM for Iranian online shops|FastAPI, React + Tailwind|Full stack workflow and DevOps|
-|[Text Forge](https://text-forge.github.io)|A modular and really hackable lightweight Code Editor|Godot Engine|Complex software architecture and UX, special language needs, OOP, modular architectures|
-|[Graphite](https://mkh-user.github.io/graphite)|In-process and structured zero-dep graph database|Python, PyTest|Extreme programming mastering, data modeling, optimization|
-|[Pite Engine](https://github.com/piteengine/pite)|A real game engine for Python developers|Rust, Python|FFI, rendering, protocol programming, low-level programming|
-|[EnhEx](https://github.com/mkh-user/enhex)|A cross-language robust wrapper around RegEx to make it really easy to read and maintain|Rust, Web Assembly, Python, JavaScript|Language-bridges, parsers, AST, code generators, transpilers|
-|[Telesense](https://github.com/EbParsa/Telesense)|(Contribution) Lightweight behavioral telemetry kit to improve UX|TypeScript|Browser integration, distributed systems, data management|
-|[Open Source Standard](https://github.com/mkh-user/open-source-standard)|Centralized maintenance guides and standards|Markdown, Python|Docs as Code, task documentation|
-|[LearnKit](https://github.com/mkh-user/learn-kit)|Zero-dependency machine learning toolkit for Godot games|GDScript, GLSL|GPU computing, neural networks, framework design, namespace organization|
-
-#### And experience through contributing to:
-
-- Godot Engine
-- Shields.io
-- PyFENN
-- Awesome Lists
-- Lorien
-
-```rust
-... && "Even More!";
-```
 
 ---
 
