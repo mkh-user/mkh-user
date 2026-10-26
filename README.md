@@ -10,9 +10,11 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/mkh-user?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=GitHub%20followers&amp;labelColor=black&amp;color=darkviolet)](https://github.com/mkh-user) 
 
-[![Wakatime](https://img.shields.io/badge/wakatime-%2B1%2C800hrs-black?style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;labelColor=black&amp;color=008800)]("https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f) 
+[![Wakatime](https://img.shields.io/badge/wakatime-%2B1%2C800hrs-black?style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;labelColor=black&amp;color=008800)](https://wakatime.com/@2d338125-04d1-4845-afab-1079f7117f8f) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/mahan-khalili-s/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&amp;logo=telegram&amp;logoColor=white)](https://t.me/MaWithHan)
 
 </div>
 
@@ -38,26 +40,27 @@ class Mahan:
 
 ## 🚀 What I'm Working On
 
-### 📚 Learning
-- 🏗️ Software Architecture Design
-- 🤖 Advanced AI Engineering
-- ⚙️ System Design & Scalability
+### 📚 Stacking experience at:
 
-### Diving deep in
+- 🏗️ Software Architecture Design
+- 🛡️ Security & In-Depth Defense
+- 🤖 Advanced AI Engineering
+- ⚙️ System Programming 
+- 🌐 Open Source Maintenance 
+
+### Spending time with:
+
+- Fast, Secure, Clean backends with **Python**
+- Native, Safe, Organized apps with **Rust**
+- Precise, Structured websites with **React**
+- DX-oriented tools and libraries for **Open Source Devs**
 
 ![roadmap.sh progress](https://roadmap.sh/card/tall/662a2ba24e8cd00d389ec297)
-
-### 💼 Leading Subject Team
-*Creating customized services for mid-scale businesses*
-
-- ⚡ 10x speed up in workflows
-- 🧠 Automated insights for strategists 
-- 🔍 Integrating tech into daily work
 
 ---
 
 ## 🛠️ Tech Stack
-_Main Items_
+_Just Main Items :)_
 
 <div align="center">
 
@@ -65,8 +68,8 @@ _Main Items_
 
 
 <img src="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript" alt="Python, Java, Rust, JS / TS">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,php,html,css,kotlin,dart" alt="C, C++, C#, PHP, HTML / CSS, Kotlin, Dart">
-<img src="https://skillicons.dev/icons?i=padding,androidstudio,arduino,django,dotnet,flask,flutter,qt,nodejs,padding" alt="Android, Arduino, Django, .NET, Flask, Flutter, Qt, Node.js">
+<img src="https://skillicons.dev/icons?i=padding,c,cs,cpp,php,html,css,kotlin,dart,padding" alt="C, C++, C#, PHP, HTML / CSS, Kotlin, Dart">
+<img src="https://skillicons.dev/icons?i=padding,padding,androidstudio,arduino,django,dotnet,flask,flutter,qt,nodejs,padding,padding" alt="Android, Arduino, Django, .NET, Flask, Flutter, Qt, Node.js">
 
 <h3>🧠 AI/ML & Data</h3>
 
@@ -92,11 +95,11 @@ _Main Items_
 
 <div align="center">
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a34fc0cc75ce3d1f1ee0388fd0b288f12bcc033e3809f468b9df548689a01da3/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170693f757365726e616d653d6d6b682d757365722672616e6b5f69636f6e3d70657263656e74696c6526637573746f6d5f7469746c653d47697448756225323053746174732673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d6769746875625f6461726b26726f6c653d4f574e45522c4f5247414e495a4154494f4e5f4d454d4245522c434f4c4c41424f5241544f52">
-  <img src="https://camo.githubusercontent.com/a34fc0cc75ce3d1f1ee0388fd0b288f12bcc033e3809f468b9df548689a01da3/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170693f757365726e616d653d6d6b682d757365722672616e6b5f69636f6e3d70657263656e74696c6526637573746f6d5f7469746c653d47697448756225323053746174732673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d6769746875625f6461726b26726f6c653d4f574e45522c4f5247414e495a4154494f4e5f4d454d4245522c434f4c4c41424f5241544f52" alt="GitHub Stats" data-canonical-src="https://github-stats-extended.vercel.app/api?username=mkh-user&amp;rank_icon=percentile&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mkh-user">
+  <img src="https://github-stats-extended.vercel.app/api?username=mkh-user&amp;rank_icon=percentile&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" style="max-width: 100%;">
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d0fa89653271e3bae3820081d046eabaf4905998d8fcc52a463feccef231599/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d6b682d75736572266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26726f6c653d4f574e45522c4f5247414e495a4154494f4e5f4d454d4245522c434f4c4c41424f5241544f52">
-  <img src="https://camo.githubusercontent.com/1d0fa89653271e3bae3820081d046eabaf4905998d8fcc52a463feccef231599/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d6b682d75736572266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26726f6c653d4f574e45522c4f5247414e495a4154494f4e5f4d454d4245522c434f4c4c41424f5241544f52" alt="GitHub Stats" data-canonical-src="https://github-stats-extended.vercel.app/api/top-langs?username=mkh-user&amp;layout=compact&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mkh-user">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mkh-user&amp;layout=compact&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" style="max-width: 100%;">
 </a>
 
 </div>
@@ -118,13 +121,13 @@ I am a lead member of:
 <div align="center">
 
 <a href="https://linkedin.com/in/mahan-khalili-s/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/001e7c1208607ee80e3312e50ab901a71a2a16af693e1367b605d720bbe9b79d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
 <a href="mailto:khalili1388mahan@gmail.com">
-  <img src="https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" style="max-width: 100%;">
 </a>
 <a href="https://soo.is/wqLGri" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/62e3c6f52a85c1df5380ce98487dc3fed1e04de094c77de626d6a69f3fa0d03a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f72652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d61626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Website" data-canonical-src="https://img.shields.io/badge/More-000000?style=for-the-badge&amp;logo=about.me&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/More-000000?style=for-the-badge&amp;logo=about.me&amp;logoColor=white" alt="Website" style="max-width: 100%;">
 </a>
 
 </div>
