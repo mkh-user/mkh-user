@@ -1,5 +1,3 @@
-# 🇵🇸 FREE PALESTINE
-
 <p align="center">
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Hey!+I'm+Mahan+Khalili+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%F0%9F%A4%96;Open+Source+Lover+%F0%9F%8C%8D;From+Iran+%F0%9F%87%AE%F0%9F%87%B7) 
@@ -88,6 +86,33 @@ _Just Main Items :)_
 <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,blender" alt="Figma, Adobe Illustrator, Adobe Photoshop, Blender">
 
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+|Project|Description|Tech Stack|What I Learned|
+|-|-|
+|[Shopeek](https://shopeekapp.ir)|Automated sales analytics and CRM for Iranian online shops|FastAPI, React + Tailwind|Full stack workflow and DevOps|
+|[Text Forge](https://text-forge.github.io)|A modular and really hackable lightweight Code Editor|Godot Engine|Complex software architecture and UX, special language needs, OOP, modular architectures|
+|[Graphite](https://mkh-user.github.io/graphite)|In-process and structured zero-dep graph database|Python, PyTest|Extreme programming mastering, data modeling, optimization|
+|[Pite Engine](https://github.com/piteengine/pite)|A real game engine for Python developers|Rust, Python|FFI, rendering, protocol programming, low-level programming|
+|[EnhEx](https://github.com/mkh-user/enhex)|A cross-language robust wrapper around RegEx to make it really easy to ready and maintain|Rust, Web Assembly, Python, JavaScript|Language-bridges, parsers, AST, code generators, transpilers|
+|[Telesense](https://github.com/EbParsa/Telesense)|(Contribution) Lightweight behavioral telemetry kit to improve UX|TypeScript|Browser integration, distributed systems, data management|
+|[Open Source Standard](https://github.com/mkh-user/open-source-standard)|Centralized maintenance guides and standards|Markdown, Python|Doc as Code, task documentation|
+|[LearnKit](https://github.com/mkh-user/learn-kit)|Zero-dependecy machine learning toolkit for Godot games|GDScript, GLSL|GPU computing, neural metworks, framework design, namespace organization|
+
+#### And experience trough contributing to:
+
+- Godot Engine
+- Shields.io
+- PyFENN
+- Awesome Lists
+- Lorien
+
+```rust
+... && "Even More!";
+```
 
 ---
 
