@@ -82,7 +82,7 @@ _Just Main Items :)_
 ## 🌟 Featured Projects
 
 |Project|Description|Tech Stack|What I Learned|
-|-|-|
+|-|-|-|-|
 |[Shopeek](https://shopeekapp.ir)|Automated sales analytics and CRM for Iranian online shops|FastAPI, React + Tailwind|Full stack workflow and DevOps|
 |[Text Forge](https://text-forge.github.io)|A modular and really hackable lightweight Code Editor|Godot Engine|Complex software architecture and UX, special language needs, OOP, modular architectures|
 |[Graphite](https://mkh-user.github.io/graphite)|In-process and structured zero-dep graph database|Python, PyTest|Extreme programming mastering, data modeling, optimization|
