@@ -158,5 +158,5 @@ I am a lead member of:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-Oct%202026-blueviolet&style=for-the-badge&labelColor=black"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-Oct%202026-blueviolet&style=for-the-badge"/>
 </p>
