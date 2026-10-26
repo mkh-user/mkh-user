@@ -22,7 +22,7 @@
 - **Full stack** developer 
 - Currently adding tons of skills to my abilities 
 - Contributing and maintaining **Open Source Projects**
-- My most used languages are **Python and Rust** todays
+- My most used languages are **Python and Rust** now
 
 ---
 
@@ -87,12 +87,12 @@ _Just Main Items :)_
 |[Text Forge](https://text-forge.github.io)|A modular and really hackable lightweight Code Editor|Godot Engine|Complex software architecture and UX, special language needs, OOP, modular architectures|
 |[Graphite](https://mkh-user.github.io/graphite)|In-process and structured zero-dep graph database|Python, PyTest|Extreme programming mastering, data modeling, optimization|
 |[Pite Engine](https://github.com/piteengine/pite)|A real game engine for Python developers|Rust, Python|FFI, rendering, protocol programming, low-level programming|
-|[EnhEx](https://github.com/mkh-user/enhex)|A cross-language robust wrapper around RegEx to make it really easy to ready and maintain|Rust, Web Assembly, Python, JavaScript|Language-bridges, parsers, AST, code generators, transpilers|
+|[EnhEx](https://github.com/mkh-user/enhex)|A cross-language robust wrapper around RegEx to make it really easy to read and maintain|Rust, Web Assembly, Python, JavaScript|Language-bridges, parsers, AST, code generators, transpilers|
 |[Telesense](https://github.com/EbParsa/Telesense)|(Contribution) Lightweight behavioral telemetry kit to improve UX|TypeScript|Browser integration, distributed systems, data management|
-|[Open Source Standard](https://github.com/mkh-user/open-source-standard)|Centralized maintenance guides and standards|Markdown, Python|Doc as Code, task documentation|
-|[LearnKit](https://github.com/mkh-user/learn-kit)|Zero-dependecy machine learning toolkit for Godot games|GDScript, GLSL|GPU computing, neural metworks, framework design, namespace organization|
+|[Open Source Standard](https://github.com/mkh-user/open-source-standard)|Centralized maintenance guides and standards|Markdown, Python|Docs as Code, task documentation|
+|[LearnKit](https://github.com/mkh-user/learn-kit)|Zero-dependency machine learning toolkit for Godot games|GDScript, GLSL|GPU computing, neural networks, framework design, namespace organization|
 
-#### And experience trough contributing to:
+#### And experience through contributing to:
 
 - Godot Engine
 - Shields.io
