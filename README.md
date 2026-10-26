@@ -154,9 +154,9 @@ I am a lead member of:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkh-user&style=for-the-badge&color=blue&labelColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=mkh-user&style=for-the-badge&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-Oct%202026-blueviolet?labelColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-Oct%202026-grassgreen?style=for-the-badge"/>
 </p>
