@@ -16,23 +16,13 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-```python
-class Mahan:
-  def __init__(self):
-    self.name = "Mahan Khalili"
-    self.location = "Iran 🇮🇷"
-    self.role = "Lead Developer & AI Enthusiast"
-    self.focus = [
-      "Software Architecture Design", 
-      "Advanced AI Engineering", 
-      "System Design & Scalability"
-    ]
-    self.mantra = "Write clean code, build meaningful things"
-```
+- I'm **Mahan Khalili** (he/him), from **Iran**
+- **Full stack** developer 
+- Currently adding tons of skills to my abilities 
+- Contributing and maintaining **Open Source Projects**
+- My most used languages are **Python and Rust** todays
 
 ---
 
