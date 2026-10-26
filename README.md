@@ -154,7 +154,7 @@ I am a lead member of:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkh-user&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=mkh-user&style=for-the-badge&color=blue&labelColor=black" />
 </p>
 
 <p align="center">
