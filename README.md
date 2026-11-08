@@ -114,7 +114,7 @@ _Just Main Items :)_
   <img src="https://github-stats-extended.vercel.app/api?username=mkh-user&amp;rank_icon=percentile&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mkh-user">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mkh-user&amp;layout=compact&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=jupyter%20notebook&stats_format=bytes&langs_count=8" alt="GitHub Stats" style="max-width: 100%;">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mkh-user&amp;layout=compact&amp;theme=github_dark&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=jupyter%20notebook" alt="GitHub Stats" style="max-width: 100%;">
 </a>
 
 </div>
