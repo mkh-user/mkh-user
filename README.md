@@ -37,7 +37,7 @@
 - Fast, Secure, Clean backends with **Python**
 - Native, Safe, Organized apps with **Rust**
 - Precise, Structured websites with **React**
-- DX-oriented tools and libraries for **Open Source Devs**
+- DX-oriented tools and libraries for **Open Source Developers**
 
 ![roadmap.sh progress](https://roadmap.sh/card/tall/662a2ba24e8cd00d389ec297)
 
